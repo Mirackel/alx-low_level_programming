@@ -5,12 +5,13 @@
 /**
  * main - program that generates random valid
  * passwords forr the program 101-crackme
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int pass[100];
 	int i, sum, n;
+	int pass[100];
 
 	sum = 0;
 
